@@ -1,4 +1,7 @@
 # WayAFK
+
+> **Note**: For a better Wayland experience, I now recommend [Vesktop](https://github.com/Vencord/Vesktop). Vesktop fixes not just AFK on Wayland, but also screensharing. It's also just nicer than BD, in my humble opinion.
+
 This is a simple plugin for BetterDiscord that fixes [this](https://support.discord.com/hc/en-us/community/posts/360052371093-Discord-on-Linux-Wayland-has-no-AFK-detection) longstanding bug with AFK detection on Wayland.
 
 Normally, when running the Discord client under Wayland, the AFK detection will *never* fire. ***EVER.*** This means (among other things) that you won't receive mobile notifications while the client is open under Wayland, which is incredibly frustrating.
